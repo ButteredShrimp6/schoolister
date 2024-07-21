@@ -1,0 +1,39 @@
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\110\res\layout\activity_main.xml
+Button;obj\Debug\110\res\layout\addlayout.xml
+Button;obj\Debug\110\res\layout\tasklayout.xml
+cache-path;C:\Users\user\Desktop\Group3_IT123P_A55 (1)\Group3_IT123P_A55\Group3_IT123P_A55\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\110\res\values\colors.xml
+color;obj\Debug\110\res\values\ic_launcher_background.xml
+EditText;obj\Debug\110\res\layout\addlayout.xml
+EditText;obj\Debug\110\res\layout\tasklayout.xml
+external-cache-path;C:\Users\user\Desktop\Group3_IT123P_A55 (1)\Group3_IT123P_A55\Group3_IT123P_A55\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\user\Desktop\Group3_IT123P_A55 (1)\Group3_IT123P_A55\Group3_IT123P_A55\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+ImageView;obj\Debug\110\res\layout\activity_main.xml
+item;obj\Debug\110\res\values\styles.xml
+LinearLayout;obj\Debug\110\res\layout\activity_main.xml
+LinearLayout;obj\Debug\110\res\layout\addlayout.xml
+LinearLayout;obj\Debug\110\res\layout\tasklayout.xml
+ListView;obj\Debug\110\res\layout\activity_main.xml
+paths;C:\Users\user\Desktop\Group3_IT123P_A55 (1)\Group3_IT123P_A55\Group3_IT123P_A55\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;obj\Debug\110\res\values\colors.xml
+resources;obj\Debug\110\res\values\ic_launcher_background.xml
+resources;obj\Debug\110\res\values\strings.xml
+resources;obj\Debug\110\res\values\styles.xml
+Space;obj\Debug\110\res\layout\activity_main.xml
+Space;obj\Debug\110\res\layout\addlayout.xml
+Space;obj\Debug\110\res\layout\tasklayout.xml
+string;obj\Debug\110\res\values\strings.xml
+style;obj\Debug\110\res\values\styles.xml
+TableLayout;obj\Debug\110\res\layout\activity_main.xml
+TableLayout;obj\Debug\110\res\layout\tasklayout.xml
+TableRow;obj\Debug\110\res\layout\activity_main.xml
+TableRow;obj\Debug\110\res\layout\tasklayout.xml
+TextView;obj\Debug\110\res\layout\activity_main.xml
+TextView;obj\Debug\110\res\layout\listlayout.xml
+Toolbar;obj\Debug\110\res\layout\activity_main.xml

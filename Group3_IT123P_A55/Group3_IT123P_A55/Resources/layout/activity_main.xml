@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:p4="http://xamarin.com/mono/android/designer"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+    <Toolbar
+        android:minHeight="?android:attr/actionBarSize"
+        android:background="?android:attr/colorPrimary"
+        android:minWidth="25px"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/toolbar1"
+        android:backgroundTint="#3A2C60">
+        <ImageView
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:id="@+id/imageView1"
+            android:padding="10dp"/>
+        <TextView
+            android:text="SCHOOLISTER\nTo-do list for students"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:fontFamily="monospace"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
+        <Space
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/space10" />
+        <Button
+            android:text="ADD TASK"
+            android:layout_width="70dp"
+            android:layout_height="60dp"
+            android:id="@+id/button3"
+            android:fontFamily="monospace"
+            android:textColor="#3A2C60"
+            android:textStyle="bold"
+            android:textSize="11dp"
+            android:padding="10dp"
+            android:backgroundTint="#6DC9F7"/>
+        <Space
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/space11" />
+    </Toolbar>
+    
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:id="@+id/space5" />
+    <TableLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tableLayout2"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableRow2"
+            android:gravity="center">
+            <Button
+                android:text="VIEW ALL"
+                android:layout_width="90dp"
+                android:layout_height="60dp"
+                android:fontFamily="monospace"
+                android:textColor="#3A2C60"
+                android:textStyle="bold"
+                android:textSize="13dp"
+                android:id="@+id/button4" />
+            <Space
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/space3" />
+            <Button
+                android:text="Search Course"
+                android:layout_width="90dp"
+                android:layout_height="60dp"
+                android:id="@+id/button1"
+                android:fontFamily="monospace"
+                android:textColor="#3A2C60"
+                android:textStyle="bold"
+                android:textSize="13dp"/>
+            <Space
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/space9" />
+            <Button
+                android:text="SEARCH TASK"
+                android:layout_width="90dp"
+                android:layout_height="60dp"
+                android:id="@+id/button2"
+                android:fontFamily="monospace"
+                android:textColor="#3A2C60"
+                android:textStyle="bold"
+                android:textSize="13dp"/>
+        </TableRow>
+    </TableLayout>
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:id="@+id/space2" />
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listView1"
+        android:padding="10dp"/>
+</LinearLayout>
